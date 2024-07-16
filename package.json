@@ -1,0 +1,15 @@
+{
+  "name": "emulatorjs",
+  "version": "1.9.1",
+  "description": "Rom and art management utility for generating configuration files for use with the EmulatorJS frontend",
+  "main": "index.js",
+  "author": "thelamer",
+  "dependencies": {
+    "cloudcmd": "^15.9.14",
+    "deepmerge": "^4.2.2",
+    "express": "^4.17.2",
+    "ipfs-http-client": "51.0.0",
+    "jszip": "^3.7.1",
+    "socket.io": "^4.4.1"
+  }
+}
